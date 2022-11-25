@@ -1,0 +1,12 @@
+             Queseria de mi sin ti            
+ 
+Factura de compra. 
+Cliente: Josue Beteta
+---------------------------------------------- 
+Productos 
+		cantidad	Precio
+Subtotal: 540.0
+Iva= 81.0
+Total= 621.0
+----------------------------------------------
+	Gracias por su compra.
